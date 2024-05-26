@@ -1,0 +1,10 @@
+INFSUS/project/PRO/repository/UserRepository.class
+INFSUS/project/PRO/controllers/LoginController.class
+INFSUS/project/PRO/models/User.class
+INFSUS/project/PRO/repository/AdvertRepository.class
+INFSUS/project/PRO/models/Advert.class
+INFSUS/project/PRO/models/Category.class
+INFSUS/project/PRO/controllers/CategoryController.class
+INFSUS/project/PRO/repository/CategoryRepository.class
+INFSUS/project/PRO/ProApplication.class
+INFSUS/project/PRO/controllers/AdvertController.class

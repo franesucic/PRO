@@ -1,0 +1,65 @@
+.main-form-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#forma {
+    width: 400px;
+    height: 550px;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    border-radius: 50px;
+}
+
+#forma span {
+    font-weight: 600;
+    font-size: large;
+}
+
+#forma input {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 380px;
+}
+
+#forma div {
+    display: flex;
+    justify-content: center;
+}
+
+#sel-div3 {
+    display: flex;
+    align-items: center;
+}
+
+#file-input {
+    background-color: black;
+}
+
+#file-div {
+    margin-top: 10px;
+}
+
+#submit-div {
+    margin-top: 20px;
+}
+
+#submit-div button {
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#submit-div button:hover {
+    cursor: pointer;
+    background-color: gainsboro;
+}
+
+.msg {
+    color: red;
+    margin-left: 10px;
+}
